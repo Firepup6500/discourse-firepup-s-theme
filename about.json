@@ -1,12 +1,8 @@
 {
   "name": "Firepup's Theme",
-  "component": false,
-  "license_url": null,
   "about_url": null,
+  "license_url": null,
   "authors": "Firepup650",
-  "theme_version": null,
-  "minimum_discourse_version": null,
-  "maximum_discourse_version": null,
   "assets": {
     "SourceCodePro": "assets/SourceCodePro.ttf"
   },
@@ -26,7 +22,25 @@
       "hover": "333333"
     }
   },
-  "modifiers": {
-  },
-  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+  "component": false,
+  "components": [
+    "https://github.com/Firepup6500/discourse-a-buttons.git",
+    "https://github.com/Firepup6500/discourse-blink-component.git",
+    "https://github.com/Firepup6500/hljs-theme-picker.git",
+    "https://github.com/VaperinaDEV/author-badge-for-topic-posts.git",
+    "https://github.com/discourse/discourse-category-icons.git",
+    "https://github.com/VaperinaDEV/custom-embedded-replies.git",
+    "https://github.com/VaperinaDEV/discourse-composer-footnote-button.git",
+    "https://github.com/discourse/discourse-gifs.git",
+    "https://github.com/discourse/discourse-mermaid-theme-component.git",
+    "https://github.com/discourse/discourse-placeholder-theme-component.git",
+    "https://github.com/discourse/experimental-usercard.git",
+    "https://github.com/Firepup6500/hljs-theme-picker.git",
+    "https://github.com/Lillinator/image-alignment.git",
+    "https://github.com/Lillinator/navigation-menu-display-control.git",
+    "https://github.com/discourse/raw-post-button.git",
+    "https://github.com/discourse/discourse-sidebar-theme-toggle.git",
+    "https://github.com/discourse/discourse-table-builder.git",
+    "https://github.com/discourse/discourse-tag-icons.git"
+  ],
 }
