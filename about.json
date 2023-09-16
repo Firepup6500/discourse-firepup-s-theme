@@ -1,0 +1,32 @@
+{
+  "name": "Firepup's Theme",
+  "component": false,
+  "license_url": null,
+  "about_url": null,
+  "authors": "Firepup650",
+  "theme_version": null,
+  "minimum_discourse_version": null,
+  "maximum_discourse_version": null,
+  "assets": {
+    "SourceCodePro": "assets/SourceCodePro.ttf"
+  },
+  "color_schemes": {
+    "Firepup's Dark": {
+      "primary": "00ff00",
+      "secondary": "000000",
+      "tertiary": "00ffff",
+      "quaternary": "cc4422",
+      "header_background": "000000",
+      "header_primary": "00ff00",
+      "highlight": "ffff00",
+      "danger": "ff0000",
+      "success": "00ff44",
+      "love": "ff6688",
+      "selected": "222222",
+      "hover": "333333"
+    }
+  },
+  "modifiers": {
+  },
+  "learn_more": "https://meta.discourse.org/t/beginners-guide-to-using-discourse-themes/91966"
+}
