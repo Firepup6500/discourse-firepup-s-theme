@@ -24,20 +24,6 @@
       "love": "ff6688",
       "selected": "222222",
       "hover": "333333"
-    },
-    "Firepup's \"Light\"": {
-      "primary": "00ff00",
-      "secondary": "000000",
-      "tertiary": "00ffff",
-      "quaternary": "cc4422",
-      "header_background": "000000",
-      "header_primary": "00ff00",
-      "highlight": "ffff00",
-      "danger": "ff0000",
-      "success": "00ff44",
-      "love": "ff6688",
-      "selected": "222222",
-      "hover": "333333"
     }
   },
   "modifiers": {
