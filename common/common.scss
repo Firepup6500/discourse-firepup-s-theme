@@ -7,14 +7,10 @@
     font-family: SCP;
 }
 
-.discourse-reactions-list .reactions .discourse-reactions-list-emoji .emoji.desaturated {
-    filter: grayscale(0%);
-}
-
 nav.post-controls button.reply .d-icon {
     fill: var(--primary);
 }
 
 .ace_content {
-    font-size: 12.8px;
+    font-size: unset;
 }
